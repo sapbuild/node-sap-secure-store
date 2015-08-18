@@ -1,0 +1,38 @@
+{
+  "name": "node-sap-secure-store",
+  "version": "0.1.0",
+  "description": "Password protected encrypted configuration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapbuild/node-sap-secure-store.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "https://github.com/sapbuild/node-sap-secure-store/blob/master/LICENSE.md"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.33"
+  },
+  "bin": {
+    "cryptjson": "./bin/cryptjson.js",
+    "decryptjson": "./bin/cryptjson.js"
+  },
+  "dependencies": {
+    "node-sap-promise": "~0.1.0"
+  },
+  "devDependencies": {
+    "chai": "~2.2.0",
+	"coveralls": "^2.11.3",
+    "del": "~1.2.0",
+    "gulp": "~3.9.0",
+    "gulp-concat": "~2.6.0",
+    "gulp-eslint": "~0.15.0",
+    "gulp-istanbul": "~0.10.0",
+    "gulp-jsdoc-to-markdown": "~1.1.1",
+    "gulp-mocha": "~2.1.2",
+    "gulp-sonar": "~1.0.2",
+    "gulp-util": "~3.0.5"
+  }
+}
