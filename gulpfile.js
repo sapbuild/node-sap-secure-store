@@ -1,6 +1,5 @@
 'use strict';
 var gulp = require('gulp');
-var build = require('node-sap-build');
 var config = require('./gulp-config');
 
 gulp.task('default', [ 'build' ], function () {
