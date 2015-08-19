@@ -1,3 +1,8 @@
+[![Build](https://img.shields.io/travis/sapbuild/node-sap-secure-store.svg?style=flat-square)](http://travis-ci.org/sapbuild/node-sap-secure-store)
+[![Version](https://img.shields.io/npm/v/node-sap-secure-store.svg?style=flat-square)](https://npmjs.org/package/node-sap-secure-store)
+[![Dependency Status](https://david-dm.org/sapbuild/node-sap-secure-store.svg)](https://david-dm.org/sapbuild/node-sap-secure-store)
+[![devDependency Status](https://david-dm.org/sapbuild/node-sap-secure-store/dev-status.svg)](https://david-dm.org/sapbuild/node-sap-secure-store#info=devDependencies)
+[![Coverage](https://img.shields.io/coveralls/sapbuild/node-sap-secure-store/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/node-sap-secure-store?branch=master)
 node-sap-secure-store
 ====================
 
