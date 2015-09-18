@@ -49,3 +49,12 @@ decryptjson [-p <password>] [-e <environment-variable>] filename | -h
 * **filename** path of the JSON file to decrypt
 
 If neither -p nor -e options are used, password is read from CRYPT_JSON_PWD environment variable.
+
+
+
+# BUILD on GitHub
+
+[Click here](https://github.com/SAP/BUILD) to visit the central BUILD project on GitHub, where you can find out more!
+
+[Click here](https://github.com/SAP/BUILD/blob/master/Contributing.md) to view the BUILD Contribution Guidelines. 
+
