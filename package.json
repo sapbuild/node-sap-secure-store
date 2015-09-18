@@ -1,6 +1,6 @@
 {
   "name": "node-sap-secure-store",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Password protected encrypted configuration",
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
     "decryptjson": "./bin/cryptjson.js"
   },
   "dependencies": {
-    "node-sap-promise": "0.3.0"
+    "node-sap-promise": "0.3.1"
   },
   "devDependencies": {
     "chai": "~2.2.0",
